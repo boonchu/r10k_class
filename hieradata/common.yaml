@@ -10,5 +10,5 @@ ntp::servers:
   - 3.pool.ntp.org
 ntp::restrict:
   - 127.0.0.1
-ntp::service_ensure: stopped
-ntp::service_enable: false
+ntp::service_ensure: running
+ntp::service_enable: true
