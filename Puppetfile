@@ -17,4 +17,8 @@ mod 'account',
   :git => 'git://github.com/torrancew/puppet-account',
   :ref => 'v0.0.5'
 
+mod 'ntp',
+  :git => 'git@github.com:puppetlabs/puppetlabs-ntp.git',
+  :ref => '4.1.0'
+
 mod 'andschwa/minecraft', '2.1.6'
