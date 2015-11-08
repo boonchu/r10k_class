@@ -3,7 +3,7 @@ forge 'forge.puppetlabs.com'
 
 mod 'stdlib',
   :git => 'git://github.com/puppetlabs/puppetlabs-stdlib.git',
-  :ref => '4.1.0'
+  :ref => '4.9.0'
 
 mod 'inifile',
   :git => 'git://github.com/puppetlabs/puppetlabs-inifile.git',
